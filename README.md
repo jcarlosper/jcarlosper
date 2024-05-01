@@ -8,7 +8,7 @@ Welcome to my space on GitHub! I'm a Systems and Computer Engineering student at
 - 🎓 I stand out for my dedication and active participation in my Systems and Computer Engineering career.
 - 💻 My mission is to transform lives through technology, detecting and solving problems such as the lack of training and technological diffusion in my city Chimbote. I believe in a future where innovation is accessible to all people.
 - 🌐Fostering contact networks between people, building bridges to share experiences and knowledge.
-- 🚀 I am currently on my way to become a Microsoft Learn Student Ambassador - MLSA and a GitHub Campus Expert - GCE. Both programs will be the fundamental support to take my goals to new heights. 
+- 🚀 I am currently a Microsoft Learn Student Ambassador (MLSA) and am looking to become a GitHub Campus Expert (GCE), working with both programs to take my goals to a higher level.
 <hr>
 
 ## My Skills 💻
