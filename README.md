@@ -26,9 +26,8 @@ Welcome to my space on GitHub! I'm a Systems and Computer Engineering student at
   </a>
 <hr>
 <h1 align=center>Community Contributions 🤝</h1>  
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E22AQFGyumDDynQmA/feedshare-shrink_800/0/1703096050380?e=1711584000&v=beta&t=onCehtrCzxEpkmfUpC90nEzFWSqFaf1lBYJpxa3d1yw" alt="img-com" width=700 height=500>
-</p>
+
+![pf](https://github.com/jcarlosambassador/jcarlosambassador/assets/168258615/f6069bc7-1a7d-4c45-9107-13026e9e6024)
 
 - Organizer of academic events: programming contests, educational workshops, expert talks and recreational activities.
 - Active in the technology community at UTP Chimbote.
@@ -40,7 +39,7 @@ Let's talk about technology, projects or anything interesting! Find me on⚡:
 <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/jcarlosper/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a href="mailto:jcarlos_per@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+<a href="mailto:jcarlos.per@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
 </a>
 <hr>
